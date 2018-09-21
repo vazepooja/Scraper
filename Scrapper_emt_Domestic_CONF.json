@@ -1,0 +1,7 @@
+{"sectors_csv_path" : 'D:\Scrappers\Run_Daily\Domestic.csv',
+
+"date_csv_path":'D:\Scrappers\Run_Daily\Date_csv.csv',
+"chrome_driver_path" : 'D:\Scrappers\Run_Daily\chromedriver.exe',
+
+"data_extract_date" : "03/20/2028"
+}
